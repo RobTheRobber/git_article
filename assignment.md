@@ -1,8 +1,12 @@
-# Basic Introduction to Unix Command Line Interface
+# Assignment
+
+# Instructions
 
 This assignment will give you the opportunity to practice basic unix commands in a terminal session.
 We will be working with the command line throughout the entirety of this program, and you
 will learn plenty as we go, so this assignment is intended to be brief.
+
+# Basic
 
 1.) Open up your terminal and navigate to your home directory.
 
@@ -35,7 +39,7 @@ in your directory now?
 `test_directory`)?
 
 
-# Intermediate Introduction to Unix Command Line Interface
+### Advanced
 
 0.) You will be using some new commands in the steps below. Read the manual for these new commands: `less`, `grep`, and `sort`. You can access the manual using the `man` command. E.g. run `man less` to read the manual for the `less` command. (Tip: To exit `man`, press 'q' on your keyboard.)
 
