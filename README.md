@@ -12,5 +12,5 @@
 
 ## Assignment
 **Command Line Interface**
-  * Review the cheatsheet provided in `unix/unix_commands.md` and take the commands for a test drive!
+  * Review the cheatsheet provided in `resources/unix_commands.md` and take the commands for a test drive!
   * Complete the two-part assignment in `assignment.md`
