@@ -1,2 +1,0 @@
-Here's another mistake.
-This time, the file will be staged.
