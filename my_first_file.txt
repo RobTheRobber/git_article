@@ -1,2 +1,2 @@
-All mistakes were corrected
+All mistakes were corrected.
 This file was staged and committed in the dev branch.
